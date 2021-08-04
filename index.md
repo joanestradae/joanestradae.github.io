@@ -6,8 +6,7 @@
         </title>
         <style>
             p{
-                color: rgb(121, 59, 2);
-         
+                color: rgb(121, 59, 2);         
             }
             .button {
                 background-color: #059862; /* Green */
@@ -21,8 +20,7 @@
                 display: inline-block;
                 font-size: 17px;
                 border-radius: 0.5em;
-            }
-        
+            }        
             .gif {
                 max-height: 8rem;
             }
@@ -46,7 +44,6 @@
         <h1>LEARNING CSS FROM BEGINNER (BETTER KNOW HTML BEFORE GOING INTO THIS ONE)</h1>
         <iframe width="560" height="315" src="https://www.youtube.com/embed/yfoY53QXEnI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         <h1>LEARNING JAVASCRIPT (JS) FROM BEGINNER (MAYBE WE WON'T GET THAT MUCH INTO THIS ONE)</h1>
-
         <iframe width="560" height="315" src="https://www.youtube.com/embed/hdI2bqOjy3c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         <h1>W3 schools is awesome</h1>
         <p>
@@ -54,12 +51,10 @@
             W3 Schools is an excelent tool</a> It has HTML and CSS tutorias with pretty easy to use playground where you can easily check 
             how an attribute works for html, css or javascript with their useful try it yourself button
         </p>
-        
         <a href="https://www.w3schools.com/css/tryit.asp?filename=trycss_buttons_basic" class="button" target="_blank">Try it yourself »</a>
         <p>keep in mind that i'm learning too so this may not be a good example of good practices when it comes to web development, but you can check the html code for this as a base for yours</p>
         <a class="secreto">it's an awful example actually</a>
         <p>the idea here is to get a better grasp on basic concepts needed for support.</p>
     </body>
-
 </html>
 
