@@ -32,7 +32,7 @@
         </style>
     </head>
     <body>
-        <div><IMG SRC="images/jebusDance.gif" class="gif"> <IMG SRC="images/reloj_60px1.gif" class="gif"><IMG SRC="images/gusano_60px1.gif"class="gif"><IMG SRC="images/tostadora_100px1.gif" class="gif"><IMG SRC="images/campana_80px1.gif" class="gif"></div>
+        <div><IMG SRC="images/jebusDance.gif" class="gif"> <IMG SRC="images/reloj_60px1.gif" class="gif"><IMG SRC="images/gusano_60px1.gif" class="gif"><IMG SRC="images/tostadora_100px1.gif" class="gif"><IMG SRC="images/campana_80px1.gif" class="gif"></div>
         <h1>Hi there TSH m8s. We're trying to build a website.</h1>
         <p>We want to make a website. We’ll start simple so we get knowledge mostly from HTML and CSS,  
         get a better understanding on what it is and how it affects a website. </p>
