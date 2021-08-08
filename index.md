@@ -56,7 +56,16 @@
         <a class="secreto">it's an awful example actually</a>
         <p>the idea here is to get a better grasp on basic concepts needed for support.</p>
         <p>We should try to make it simple but still can have some interactive elements. The internet is full of examples of buttons and slideshows. Try to use HTML and CSS only. Of course you can copy paste the code to make those elements, but at least try to understand what each of the lines there do and play around with it, maybe change it a little.</p>
-        
+        <h2>THE SITE SHOULD CONTAIN THESE ELEMENTS, YOU CAN CHOOSE ANY TOPIC YOU'D LIKE TO MAKE THE WEBSITE. TRY AND BE CREATIVE:
+        <ul>
+        <li>A background image (can be full page or just one section)</li>
+        <li>one section with more than one column</li>
+        <li>a button</li>
+        <li>some text input</li>
+        <li>use one of these css properties "display: flex" or "display: grid property". Wouldn't hurt to try both tho. </li>
+        <li>Let's try to make a fake product on your page. It can be any product. With an image, description, price, add to cart button.</li> <IMG SRC="product.jpg">
+
+
     </body>
 </html>
 
