@@ -55,6 +55,7 @@
         <p>keep in mind that i'm learning too so this may not be a good example of good practices when it comes to web development, but you can check the html code for this as a base for yours</p>
         <a class="secreto">it's an awful example actually</a>
         <p>the idea here is to get a better grasp on basic concepts needed for support.</p>
+        <p>We should try to make it simple but still can have some interactive elements. The internet is full of examples of buttons and slideshows. Try to use HTML and CSS only. Of course you can copy paste the code to make those elements, but at least try to understand what each of the lines there do and play around with it, maybe change it a little.
     </body>
 </html>
 
