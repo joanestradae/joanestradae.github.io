@@ -108,7 +108,6 @@
         <li>Anything else you'd like to add is welcome, you can share it with your teammates through the Artificers channel.</li>
         </ul>
         <br>
-        <p style="font-size:22px;">The idea here is to learn a bit more about how css and html. You can make it as complex as you'd like. You can copy paste a lot of these stuff, but at least play around wit the code just to get a grasps on what every line does, it can be fun. I can't stress enough how useful W3 schools can be to  </p>
-
+        <p style="font-size:22px;">The idea here is to learn a bit more about how css and html. You can make it as complex as you'd like. You can copy paste a lot of these stuff, but at least play around wit the code just to get a grasps on what every line does, it can be fun. I can't stress enough how useful W3 schools can be to learn how html and css work.  </p>
     </body>
 </html>
