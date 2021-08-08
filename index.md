@@ -81,6 +81,4 @@
         <br>
         <IMG SRC="images/fakead.jpg" style="width:20rem;height:18rem;border-radius:1px;border-style:dotted;border-color:red;">
         <br><br>    
-    </body>
-</html>
 
