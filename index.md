@@ -65,10 +65,10 @@
         <li>some text input.</li> 
         <li>use one of these css properties "display: flex" or "display: grid property". Wouldn't hurt to try both tho. </li>
         <li>Let's try to make a fake product on your page. It can be any product. With an image, description, price, add to cart button. (the "sold out" one is optional) </li>
-        <br><IMG SRC="images/product.jpg"style="width:20rem;height:18rem;border-radius:1px;border-style:dotted;"><br><br>
+        <br><IMG SRC="images/product.JPG" style="width:20rem;height:18rem;border-radius:1px;border-style:dotted;"><br><br>
         <li>Use an inline style for one element. </li>
         <li>Use a different '.css' file to add styles to the webpage. </li>
-        <li>sUse the class attribute to style an element. </li>
+        <li>Use the class attribute to style an element. </li>
         <li>Use an id to style an element. </li>
         <li>Add an element that stays on display no matter where you scroll. </li>
         <li>Add some audio media. </li>
@@ -79,8 +79,8 @@
         <br><br>
         <li>Just for fun, we can make a fake ad. It can be a real or fake product.</li>
         <br>
-        <IMG SRC="images/fakead.jpg"style="width:20rem;height:18rem;border-radius:1px;border-style:dotted;border-color:red;">
-        <br><br>
+        <IMG SRC="images/fakead.jpg" style="width:20rem;height:18rem;border-radius:1px;border-style:dotted;border-color:red;">
+        <br><br>    
     </body>
 </html>
 
