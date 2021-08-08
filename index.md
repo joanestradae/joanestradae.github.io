@@ -5,8 +5,11 @@
             IT'S MY FIRST WEBSITE.
         </title>
         <style>
+            *{
+                font-family: Source Sans Pro;   
+            }
             p{
-                color: rgb(121, 59, 2);         
+                color: rgb(22, 22, 2);       
             }
             .button {
                 background-color: #059862; /* Green */
@@ -21,15 +24,25 @@
                 font-size: 17px;
                 border-radius: 0.5em;
             }        
+            .button1 {
+                background-color: darkblue; 
+                border: none;
+                color: white;
+                font-weight: bold;
+                font-family: Source Sans Pro;
+                padding: 15px 32px;
+                text-align: center;
+                text-decoration: none;
+                display: inline-block;
+                font-size: 17px;
+                border-radius: 0.5em;
+            }    
             .gif {
                 max-height: 8rem;
             }
             .secreto {
                 display: none;
             }           
-            p:nth-of-type(3) {
-            color: blue;
-            }
         </style>
     </head>
     <body>
@@ -37,16 +50,17 @@
         <h1>Hi there TSH m8s. We're trying to build a website.</h1>
         <p>We want to make a website. We’ll start simple so we get knowledge mostly from HTML and CSS,  
         get a better understanding on what it is and how it affects a website. </p>
-        <p>Once we start with the basics and get used to html and css we could start making some more advanced stuff (maybe JS)</p>
+        <p>Any web developer needs to know at least these three: HTML, CSS, JavaScript. We're not web developers, so we need to get comfortable with the first two. </p>
         <p>For now, we can start using the next resources</p>
-        <h1>Visual Studio code</h1>
-        <p>You can use <a href="https://code.visualstudio.com/" target="_blank">Visual studio</a> to make your website</p>
+        <h1>Visual Studio code is useful for making and writing our projects. But to make an html any text editor would work. VS just seems to make our lives easier. =).</h1>
+        <p><a href="https://code.visualstudio.com/" target="_blank" class="button1">Download Visual studio</a></p>
+        <br>
         <iframe width="560" height="315" src="https://www.youtube.com/embed/VqCgcpAypFQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         <h1>LEARNING HTML FROM BEGGINNER</h1>
         <iframe width="560" height="315" src="https://www.youtube.com/embed/UB1O30fR-EE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         <h1>LEARNING CSS FROM BEGINNER (BETTER KNOW HTML BEFORE GOING INTO THIS ONE)</h1>
         <iframe width="560" height="315" src="https://www.youtube.com/embed/yfoY53QXEnI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        <h1>LEARNING JAVASCRIPT (JS) FROM BEGINNER (MAYBE WE WON'T GET THAT MUCH INTO THIS ONE)</h1>
+        <h1>LEARNING JAVASCRIPT (JS) FROM BEGINNER (This one won't be necessary for this guide.)</h1>
         <iframe width="560" height="315" src="https://www.youtube.com/embed/hdI2bqOjy3c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         <h1>W3 schools is awesome</h1>
         <p>
@@ -60,7 +74,7 @@
         <p>the idea here is to get a better grasp on basic concepts needed for support.</p>
         <p>We should try to make it simple but still can have some interactive elements. The internet is full of examples of buttons and slideshows. Try to use HTML and CSS only. Of course you can copy paste the code to make those elements, but at least try to understand what each of the lines there do and play around with it, maybe change it a little.</p>
         <h2>THE SITE SHOULD CONTAIN THESE ELEMENTS, YOU CAN CHOOSE ANY TOPIC YOU'D LIKE TO MAKE THE WEBSITE. TRY AND BE CREATIVE:</h2>
-        <br><br><p>***try to read all requirements before starting, this is not a checklist nor a recipe.***</p><br><br>
+        <p>***try to read all requirements before starting, this is not a checklist nor a recipe.***</p><br>
         <ul>
         <li>A background image. (can be full page or just one section)</li>
         <li>Add colors to your sections.</li>
@@ -82,18 +96,19 @@
         <audio controls> 
         <source src="media/headshot.ogg" type="audio/ogg">   
         </audio>
-        <br><br>
+        <br>
         <li>Just for fun, we can make a fake ad. It can be a real or fake product.</li>
         <br>
         <IMG SRC="images/fakead.jpg" style="width:20rem;height:18rem;border-radius:1px;border-style:dotted;border-color:red;">
-        <br><br>   
+        <br><br>
         <li>Use a pseudo class selector to style an element. </li> 
         <li>Use a pseudo element selector to style an element. </li> 
         <li>Select the third element of a specific recurring element in your webpage like a 'p' or 'h' element</li>
         <li>Add some social media links. </li>
         <li>Anything else you'd like to add is welcome, you can share it with your teammates through the Artificers channel.</li>
-        <br><br>
-        <p>The idea here is to learn a bit more about how css and html. Specially selectors and how they work. Try to have fun and play around with all the different properties. You can make it as complex as you like.</p>
+        </ul>
+        <br>
+        <p style="font-size:22px;">The idea here is to learn a bit more about how css and html. You can make it as complex as you'd like. You can copy paste a lot of these stuff, but at least play around wit the code just to get a grasps on what every line does, it can be fun. I can't stress enough how useful W3 schools can be to  </p>
+
     </body>
 </html>
-1
